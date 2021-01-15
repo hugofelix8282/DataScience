@@ -10,7 +10,7 @@
 Possui graduação em Sistema de Informação pela Universidade Mauricio de Nassau (2015), especialista em Segurança da informação pela Universidade Estácio de Sá (2018), Especialista em Ciência de Dados e Big Data Analytics pela Universidade Estácio de Sá (2019) Atualmente é tutor- EAD- SER EDUCACIONAL. Tem experiência na área de Ciência da Computação, Ciência de dados, Modelos Deep Learning, Machine Learning, Mineração de dados, Visualização de Dados.
 
 
-**Background in:** Python, Machine Learning, Deep Learning, Data Science.
+**Conhecimentos:** Python, Machine Learning, Deep Learning, Data Science.
 
 **Links:**
 
