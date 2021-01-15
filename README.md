@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="banner.jpg" >
+<img src="https://github.com/hugofelix8282/DataScience/blob/main/banner.png" >
 </p>
 
 ### Hugo Felix
