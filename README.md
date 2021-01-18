@@ -21,5 +21,7 @@ Possui graduação em Sistema de Informação pela Universidade Mauricio de Nass
 
 
 * Scriptcase 9 - Integração com Googlemaps Heatmap: https://www.youtube.com/watch?v=PxdKipCkZi4
+* Machine Learning Detecção de pessoal com Diabetes: https://bit.ly/3qBUwwd
+
 ---
 
