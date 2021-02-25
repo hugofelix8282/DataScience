@@ -21,6 +21,7 @@ Possui bacharelado em Sistema de Informação pela Universidade Mauricio de Nass
 
 * Scriptcase 9 - Integração com Googlemaps Heatmap: https://www.youtube.com/watch?v=PxdKipCkZi4
 * Machine Learning Detecção de pessoas com Diabetes: https://bit.ly/3qBUwwd
+* Modelo de Reconhecimento de Emoções com Arquitetura DCNN:  https://bit.ly/2ZSD4br
 
 ---
 
